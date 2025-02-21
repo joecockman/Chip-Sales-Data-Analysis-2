@@ -1,4 +1,4 @@
-# Chip-Sales-Data-Analysis-2
+# Quantium-Virtual-Internship-Chip-Sales-Data-Analysis-2
 
 Part 2 of the Quantium virtual internship. The task was to investigate the success of a new trial layout in 3 of the stores from February to the end of April.
 
