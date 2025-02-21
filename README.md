@@ -11,3 +11,5 @@ Having a control store helped us to confirm if any notable change in trial store
 I used python to complete this project.
 
 My work can be found in the file repository in both ipynb form and PDF form. the dataset can also be found there.
+
+![Crisps](crisps.jpg)
